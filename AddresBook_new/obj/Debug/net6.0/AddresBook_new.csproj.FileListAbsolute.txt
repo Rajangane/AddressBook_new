@@ -1,0 +1,14 @@
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\bin\Debug\net6.0\AddresBook_new.exe
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\bin\Debug\net6.0\AddresBook_new.deps.json
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\bin\Debug\net6.0\AddresBook_new.runtimeconfig.json
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\bin\Debug\net6.0\AddresBook_new.dll
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\bin\Debug\net6.0\ref\AddresBook_new.dll
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\bin\Debug\net6.0\AddresBook_new.pdb
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.AssemblyInfoInputs.cache
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.AssemblyInfo.cs
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.csproj.CoreCompileInputs.cache
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.dll
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\ref\AddresBook_new.dll
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.pdb
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.genruntimeconfig.cache
