@@ -12,3 +12,4 @@ D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_
 D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\ref\AddresBook_new.dll
 D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.pdb
 D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.genruntimeconfig.cache
+D:\bridzlabz\Address1\AddresBook_new\AddresBook_new\obj\Debug\net6.0\AddresBook_new.csproj.AssemblyReference.cache
